@@ -22,15 +22,17 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8528695a-0c77-416b-888f-2f2b5478e9de" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list id="8528695a-0c77-416b-888f-2f2b5478e9de" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list default="true" id="bbe08a1c-3761-495e-89b3-2abc1a88d9f7" name="Changes" comment="Changes">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/navis/Sample2.java" afterPath="$PROJECT_DIR$/src/main/java/com/navis/Sample2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,18 +129,18 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1516903309745" expanded="true" signature="62109:62174" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62109:62196" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62109:62230" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62109:62250" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62109:62265" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62109:62658" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62109:62673" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62317:62644" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62336:62629" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62431:62609" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62471:62575" ph="..." />
-                <marker date="1516903309745" expanded="true" signature="62492:62553" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="62923:62988" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="62923:63010" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="62923:63044" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="62923:63064" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="62923:63079" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="62923:63472" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="62923:63487" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="63131:63458" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="63150:63443" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="63245:63423" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="63285:63389" ph="..." />
+                <marker date="1516903413863" expanded="true" signature="63306:63367" ph="..." />
               </folding>
             </state>
           </provider>
@@ -596,6 +598,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -687,10 +690,18 @@
       <updated>1516899884922</updated>
       <workItem from="1516899892339" duration="2611000" />
     </task>
+    <task id="LOCAL-00001" summary="Darn idea files">
+      <created>1516903336121</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516903336121</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2624000" />
+    <option name="totallyTimeSpent" value="2738000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -765,6 +776,8 @@
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <option name="PERFORM_UPDATE_IN_BACKGROUND" value="false" />
     <option name="PERFORM_COMMIT_IN_BACKGROUND" value="false" />
+    <MESSAGE value="Darn idea files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Darn idea files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -837,18 +850,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516903309745" expanded="true" signature="62109:62174" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62109:62196" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62109:62230" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62109:62250" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62109:62265" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62109:62658" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62109:62673" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62317:62644" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62336:62629" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62431:62609" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62471:62575" ph="..." />
-            <marker date="1516903309745" expanded="true" signature="62492:62553" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="62923:62988" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="62923:63010" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="62923:63044" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="62923:63064" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="62923:63079" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="62923:63472" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="62923:63487" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="63131:63458" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="63150:63443" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="63245:63423" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="63285:63389" ph="..." />
+            <marker date="1516903413863" expanded="true" signature="63306:63367" ph="..." />
           </folding>
         </state>
       </provider>
